@@ -1,0 +1,108 @@
+/************************
+Page Styles
+*************************/
+
+body {
+  margin: 0;
+  font-family: verdana, sans-serif;
+  font-size: 0.85em;
+  background: ;
+}
+
+#wrapper {
+  width: 920px;
+  margin: 0 auto;
+}
+
+title {
+  color: white;
+}
+
+.primary-content,
+.secondary-cotent {
+  width: 60%;
+}
+
+header {
+  background-color: goldenrod;
+  padding: 2%;
+  margin: 1%;
+  text: bold;
+  text-color: white;
+}
+
+span {
+  text-color: white;
+}
+
+h1 {
+  font-size: 90px;
+  font-color: white;
+}
+
+h2 {
+  font-sie: 53px;
+  font-color: white;
+}
+
+h3 {
+  font-size: 20px;
+  padding: 1%;
+}
+
+h4 {
+  font-size: Organge;
+}
+
+h5 {
+}
+
+p {
+  font-size: 25px;
+  padding: 1%;
+  text-align: center;
+  font-color: white;
+  font-weight: bolder;
+}
+
+/************************************
+Navigation 
+*************************************/
+
+#nav {
+  margin-top: 20px;
+  list-style: none;
+}
+
+a {
+  font-size: 2em;
+  font-weight: bold;
+  padding: 10px;
+  background: url;
+}
+
+img {
+  padding: 1%;
+  margin: 3%;
+  border: Center;
+  border-radius: 10%;
+}
+
+.box {
+  height: 30%;
+  background-color: goldenrod;
+  color: white;
+  padding: 2%;
+}
+
+blockquote {
+  column: vertical;
+}
+
+footer {
+  background-color: goldenrod;
+  padding: 0%;
+  margin: 0%;
+  text: bold;
+  text-color: white;
+}
